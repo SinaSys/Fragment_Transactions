@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fragment_Transactions.iml" filepath="$PROJECT_DIR$/Fragment_Transactions.iml" group="Fragment_Transactions" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Fragment_Transactions/app" />
+    </modules>
+  </component>
+</project>
